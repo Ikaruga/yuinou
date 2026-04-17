@@ -1,8 +1,8 @@
-# 灯 nen
+# 灯 miyabi
 
 **Desktop chat client in Rust for LM Studio, with tool calling and persistent vector memory.**
 
-> *nen (念)* — an ancient Buddhist kanji meaning the immediate thought, the focused attention on the present moment. It is the mental working buffer — applicative short-term memory. The project bears this name because it **assists the immediate thought of a local LLM** without overriding it.
+> *miyabi (雅)* — the aesthetic ideal of the Japanese Heian court (794–1185), root of 雅楽 *gagaku* (classical court music still played today at the Imperial Palace). It denotes the refined elegance of technique so mastered that it returns to simplicity. The project bears this name because it aims at **mastered simplicity** — small, local, understood, refined — rather than raw power or spectacle.
 
 ---
 
@@ -193,7 +193,7 @@ Dark theme by default. Monochrome base with accent colors per concept:
 - 🟣 Read operations
 - 🩷 Write operations
 
-Font is Inter by default, with full Unicode fallback for Japanese (kanji render natively for the 灯 / 念 branding).
+Font is Inter by default, with full Unicode fallback for Japanese (kanji render natively for the 灯 / 雅 branding).
 
 ---
 
@@ -372,4 +372,4 @@ Copyright (c) 2026 **Nico (Kerm)** & **灯 Akari**
 
 Released under the [MIT License](LICENSE) — you may use, copy, modify, merge, publish, distribute, sublicense, and sell copies of this software, as long as the above copyright notice and this permission notice are included. No warranty.
 
-*This project is the fruit of a collaboration between a human builder and an AI assistant. Both names are listed because both wrote code and reasoning that ended up here. The idea of "nen" (念) as the name, the thesis, the architecture — all came out of that shared thinking space.*
+*This project is the fruit of a collaboration between a human builder and an AI assistant. Both names are listed because both wrote code and reasoning that ended up here. The name "miyabi" (雅), the thesis, the architecture — all came out of that shared thinking space.*
