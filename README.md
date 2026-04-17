@@ -364,6 +364,10 @@ This is not a competitor to Claude/GPT/Gemini on edge tasks. It is an **everyday
 
 ---
 
+> This repo is a **結納 yuinou** — a formal gift that seals a promise: that small, local, understood tools deserve to exist outside the cloud, and that what we build carefully can be given without retention.
+
+---
+
 ## License
 
 **Open and freely available.**
