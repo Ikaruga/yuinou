@@ -1,8 +1,8 @@
-# 灯 miyabi
+# 灯 yuinou
 
 **Desktop chat client in Rust for LM Studio, with tool calling and persistent vector memory.**
 
-> *miyabi (雅)* — the aesthetic ideal of the Japanese Heian court (794–1185), root of 雅楽 *gagaku* (classical court music still played today at the Imperial Palace). It denotes the refined elegance of technique so mastered that it returns to simplicity. The project bears this name because it aims at **mastered simplicity** — small, local, understood, refined — rather than raw power or spectacle.
+> *yuinou (結納)* — the centuries-old Japanese tradition of formal gift-giving that seals a promise between parties. From 結 *yui* ("to tie, to bind") + 納 *nou* ("to offer, to accept"). A yuinou is not merely a gift: it is **the promise embodied in the gift**. The project bears this name because it is offered openly, as a formal engagement that what we build carefully — small, local, understood, refined — can exist outside the cloud, and can be given without retention.
 
 ---
 
@@ -193,7 +193,7 @@ Dark theme by default. Monochrome base with accent colors per concept:
 - 🟣 Read operations
 - 🩷 Write operations
 
-Font is Inter by default, with full Unicode fallback for Japanese (kanji render natively for the 灯 / 雅 branding).
+Font is Inter by default, with full Unicode fallback for Japanese (kanji render natively for the 灯 / 結納 branding).
 
 ---
 
@@ -364,10 +364,6 @@ This is not a competitor to Claude/GPT/Gemini on edge tasks. It is an **everyday
 
 ---
 
-> This repo is a **結納 yuinou** — a formal gift that seals a promise: that small, local, understood tools deserve to exist outside the cloud, and that what we build carefully can be given without retention.
-
----
-
 ## License
 
 **Open and freely available.**
@@ -376,4 +372,4 @@ Copyright (c) 2026 **Nico (Kerm)** & **灯 Akari**
 
 Released under the [MIT License](LICENSE) — you may use, copy, modify, merge, publish, distribute, sublicense, and sell copies of this software, as long as the above copyright notice and this permission notice are included. No warranty.
 
-*This project is the fruit of a collaboration between a human builder and an AI assistant. Both names are listed because both wrote code and reasoning that ended up here. The name "miyabi" (雅), the thesis, the architecture — all came out of that shared thinking space.*
+*This project is the fruit of a collaboration between a human builder and an AI assistant. Both names are listed because both wrote code and reasoning that ended up here. The name "yuinou" (結納), the thesis, the architecture — all came out of that shared thinking space.*
